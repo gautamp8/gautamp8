@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - Medium - https://medium.com/@gautamprajapati
 - Twitter - https://twitter.com/28gautam97
 
-I'm a Software Engineer from New Delhi, India 🇮🇳. I graduated from Delhi Technological University(Formerly Delhi College of Engineering) in 2018 to join (Grofers)[grofers.com] as a Backend Engineer.
+I'm a Software Engineer from New Delhi, India 🇮🇳. I graduated from Delhi Technological University(Formerly Delhi College of Engineering) in 2018 to join [Grofers](grofers.com) as a Backend Engineer.
 
 My work at Grofers has provided me with decent experience building production-ready systems with Python and Kubernetes at a scale of million daily active users.
 
