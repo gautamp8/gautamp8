@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- Website - www.gautamprajapati.com
+- Linkedin - https://www.linkedin.com/in/brainbreaker
 - Medium - https://medium.com/@gautamprajapati
 - Twitter - https://twitter.com/28gautam97
 
