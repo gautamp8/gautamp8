@@ -27,4 +27,4 @@ During my Bachelor's in Software Engineering, I've been mostly involved with ope
 
 In addition to coding, I love to read about fitness, nutrition and epidemiology of cancer as a disease. I organize regular support group circles to help bring positive mental shift from consumption to contribution in the community. I love strength training.
 
-All, I care about code, environment and people.
+All in all, I care about code, environment and people.
