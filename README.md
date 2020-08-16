@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- Website - https://www.gautamprajapati.com
 - Linkedin - https://www.linkedin.com/in/brainbreaker
 - Medium - https://medium.com/@gautamprajapati
 - Twitter - https://twitter.com/28gautam97
@@ -24,6 +25,6 @@ My work at Grofers has provided me with decent experience building production-re
 
 During my Bachelor's in Software Engineering, I've been mostly involved with open source projects. I'm a Google Summer of Code'17 scholar and have contributed to complex codebases of LibreOffice, Mozilla(Firefox for Android) and OpenMRS and others in the past.
 
-In addition to coding, I love to read about fitness, nutrition and epidemiology of cancer as a disease. I organize regular support group circles to help bring positive mental shift from consumption to contribution in the community. I'm also a beginner powerlifter.
+In addition to coding, I love to read about fitness, nutrition and epidemiology of cancer as a disease. I organize regular support group circles to help bring positive mental shift from consumption to contribution in the community. I love strength training.
 
-Overall, I care about code, environment and people.
+All, I care about code, environment and people.
