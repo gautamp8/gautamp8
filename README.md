@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Software Engineer from New Delhi, India. Currently building and managing reliable systems for [Grofers](grofers.com) as a Backend Engineer.
+Software Engineer from New Delhi, India. Currently building and managing reliable systems for [Airbnb](airbnb.com) as a Software Engineer.
 - Here's my website - https://www.gautamprajapati.com
 - I write on Medium ocassionally - https://medium.com/@gautamprajapati
