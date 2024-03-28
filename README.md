@@ -1,7 +1,7 @@
 ### Hi, I'm Gautam!👋
 
 <!--
-**brainbreaker/brainbreaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gautamp8/gautamp8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Software Engineer from Bangalore, India. Currently building and managing reliable systems for [Airbnb](airbnb.com) as a Software Engineer.
-- Here's my website - https://www.gautamprajapati.com
+Software Engineer based out of Bangalore, India. Currently building [CarbonMarketsHQ.com](https://carbonmarketshq.com) and managing reliable systems for [Airbnb](airbnb.com) as a Senior Software Engineer.
+- Connect via LinkedIn - https://www.linkedin.com/in/gautamp8/
 - I write on Medium ocassionally - https://medium.com/@gautamprajapati
